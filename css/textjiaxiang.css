@@ -1,0 +1,134 @@
+.background{
+    height: 1100px;
+    width: 100%;
+    background-image: url(../imgs/2014120615262913955.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.fanhui{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    height: 50px;
+    width: 100px;
+    /* background-color: rgb(74, 210, 252); */
+    /* background-image: url(../imgs/2014120615262913955.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover; */
+}
+a{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(240, 234, 234);
+}
+a:hover{
+    color:red;
+}
+.jiaxiang{
+    text-align: center;
+    margin:  0 auto;
+    width: 1200px;
+    background-color: antiquewhite;
+}
+.ldjj{
+    height: 350px;
+    width: 100%;
+}
+.ldfj{
+    height: 650px;
+    width: 100%;
+}
+.ldjjtt{
+    height: 65px;
+    width: 100%;
+    margin-bottom: 5px;
+    /* background-color: aquamarine; */
+}
+.ttnr{
+    margin: 10px 20px;
+    height: 30px;
+    width: 1160px;
+    padding-top: 20px;
+    /* background-color: burlywood; */
+}
+.t{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    float: left;
+}
+.ldjjnr{
+    height: 280px;
+    width: 100%;
+    /* background-color: blueviolet; */
+}
+.jjnr{
+    margin: 10px 20px;
+    height: 210px;
+    width: 860px;
+    padding-top: 20px;
+    /* background-color: darkblue; */
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Microsoft JhengHei;
+    float: left;
+}
+.nr{
+    text-indent: 2em;
+    text-align: left;
+    margin-top: -10px;
+}
+.fjtt{
+    height: 40px;
+    width: 1200px;
+}
+.fjttnr{
+    margin-left: 20px;
+}
+.fj{
+    height: 610px;
+    width: 400px;
+    float: left;
+}
+.fjnr{
+    height: 600px;
+    width: 380px;
+    margin: 10px 5px;
+}
+.fjname{
+    height: 30px;
+    width: 380px;
+    font-size: 20px;
+    font-family: Microsoft JhengHei;
+    color: rgb(243, 97, 146);
+    font-weight: bold;    
+}
+.fjjs{
+    height: 330px;
+    width: 380px;
+    padding-top: 20px;
+    font-size: 17px;
+    font-family: Microsoft JhengHei;
+}
+.yejiao{
+    width: 1200px;
+    height: 90px;
+    padding-top: 10px;
+    /* background-color: rgb(85, 113, 241); */
+    background-color: antiquewhite;
+}
+.yjnr{
+    width: 1000px;
+    height: 50px;
+    margin: 0 100px;
+}
+.yjnr{
+    font-family: Microsoft JhengHei;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+}
+.lxfs{
+    float: left;
+    width: 333px;
+    font-size: 17px;
+}

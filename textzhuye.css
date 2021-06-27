@@ -1,0 +1,180 @@
+.background{
+    height: 1000px;
+    width: 100%;
+    background-image: url(./imgs/2014120615262913955.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    
+}
+.zhuye{
+    text-align: center;
+    margin:  0 auto;
+    width: 1200px;
+    height: 1000px;
+    /* background-color: antiquewhite;  */
+    /* background-image: url(../imgs/zybj.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover; */  
+}
+.daohang{
+    height: 75px;
+    width: 100%;
+    padding-top: 20px;
+    /* background-image: url(../imgs/zybj3.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover; */
+}
+.dh{
+    margin-top: 12.5px;
+    margin-bottom: 12.5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    float: left;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    color: aquamarine;
+    font-family:  Microsoft JhengHei;
+}
+a{
+    color: rgb(10, 238, 208);
+}
+a:hover{
+    color: red;
+}
+.zhuye1{
+    height: 540px;
+    width: 100%;
+    margin-top: 20px;
+    /* background-color: rgb(253, 247, 167); */
+    /* background-image: url(../imgs/zybj.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover; */
+}
+.grxp{
+    width: 380px;
+    height: 500px;
+    /* background-color: blueviolet; */
+    margin: 0px 20px;
+    float: left;
+}
+.xp{
+    margin-top: 10px;
+    width: auto;
+    height: auto;
+}
+.grxpzs{
+    width:auto;
+    height: 50px;
+    margin-top: 30px;
+    padding: 0px 50px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(107, 247, 72);
+}
+.grjj{
+    width: 400px;
+    height: 500px;
+    /* background-color: brown; */
+    margin: 0 20px;
+    float: left;
+}
+.grjjtt{
+    width: 360px;
+    height: 50px;
+    margin-top: 10px;
+    padding: 0px 10px;
+    /* background-color: aqua; */
+}
+.ttmain{
+    width: 100px;
+    height: 40px;
+    margin: 5px 20px;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(104, 68, 163);
+}
+.grjjnr{
+    width: 360px;
+    height: 430px;
+    margin-top: 10px;
+    padding: 0px 10px;
+}
+.grjjnrl{
+    height: 50px;
+    margin-top: 10px;
+    width: 300px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: rgb(113, 216, 241);
+    font-family:  Microsoft JhengHei;
+    font-weight: 500;
+    text-align: left;
+    
+}
+.pj{
+    width: 1200px;
+    height: 200px;
+    /* background-color: rgb(253, 247, 167); */
+    margin-top: 60px 100px;
+    
+}
+.pjnr{
+    width: 1000px;
+    height: 180px;
+    margin: 20px 100px;
+    /* background-color: azure; */
+}
+.question{
+    width: 960px;
+    height: 25px;
+    margin: 5px 20px;
+    font-size: 18px;
+    font-family: serif;
+    /* background-color: brown; */
+    color: rgb(14, 188, 241);
+    font-weight: bold;
+    text-align: left;
+}
+.answer{
+    width: 960px;
+    height: 105px;
+    text-align: left;
+    margin: 5px 20px;
+}
+.tj{
+    width: 960px;
+    height: 30px;
+    text-align: left;
+    margin: 5px 20px;
+}
+.tjan{
+    width: 80px;
+    height: 30px;
+    color: rgb(0, 112, 183);
+    font-weight: bold;
+    background-color: rgb(238, 246, 255);
+}
+.yejiao{
+    width: 1200px;
+    height: 90px;
+    margin-top: 31px;
+    /* background-color: rgb(85, 113, 241); */
+}
+.yjnr{
+    width: 1000px;
+    height: 50px;
+    margin: 0 100px;
+}
+.yjnr{
+    font-family: Microsoft JhengHei;
+    font-size: 17px;
+    color: rgb(59, 116, 223);
+}
+.lxfs{
+    float: left;
+    width: 333px;
+    font-size: 17px;
+}

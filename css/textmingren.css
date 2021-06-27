@@ -1,0 +1,123 @@
+.background{
+    height: 1090px;
+    width: 100%;
+    background-image: url(../imgs/2014120615262913955.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.fanhui{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    height: 50px;
+    width: 100px;
+    /* background-color: rgb(74, 210, 252); */
+    /* background-image: url(../imgs/2014120615262913955.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover; */
+}
+a{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(240, 234, 234);
+}
+
+a:hover{
+    color:red;
+}
+.mingren{
+    text-align: center;
+    margin:  0 auto;
+    width: 1200px;
+    height: 1000px;
+    background-color: antiquewhite;
+}
+.mrtt{
+    width: 1160px;
+    height: 170px;
+    margin: 10px 20px;
+    padding-top: 10px;
+}
+.wenzi{
+    width: 900px;
+    height: 170px;
+    float: left;
+}
+.mrtt1{
+    height: 45px;
+    width: 900px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.t{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    float: left ;
+    font-family: Microsoft JhengHei;
+}
+.mrttnr{
+    height: 95px;
+    width: 880px;
+    margin: 10px 20px;
+    float: left;
+    font-size: 17px;
+    line-height: 30px;
+    font-family: Microsoft JhengHei;
+}
+.nr{
+    text-indent: 2em;
+    text-align: left;
+    margin-top: -10px;
+}
+.mrnr{
+    width: 1160px;
+    height: 800px;
+    margin: 0px 20px; 
+}
+.mrnr1{
+    width: 1160px;
+    height: 390px;
+    margin-top: 10px;
+}
+.mrnrtt{
+    width: 1160px;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.mrnr11{
+    width: 880px;
+    height: 340px;
+    padding-top: 20px;
+    float: left;
+    font-size: 17px;
+    line-height: 30px;
+    font-family: Microsoft JhengHei;
+}
+.zhushi{
+    height: 30px;
+    font-family: Microsoft JhengHei;
+}
+.yejiao{
+    width: 1200px;
+    height: 90px;
+    padding-top: 20px;
+    /* background-color: rgb(85, 113, 241); */
+    background-color: antiquewhite;
+}
+.yjnr{
+    width: 1000px;
+    height: 50px;
+    margin: 0 100px;
+}
+.yjnr{
+    font-family: Microsoft JhengHei;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+}
+.lxfs{
+    float: left;
+    width: 333px;
+    font-size: 17px;
+}
